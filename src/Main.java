@@ -4,6 +4,7 @@ public class Main {
         task45 ();
         task68 ();
     }
+    //ВЕТКА ДЛЯ ВНЕСЕНИЯ ПРАВОК
     public static void task13 () {
         var dog = 8.0;
         var cat = 3.6;
